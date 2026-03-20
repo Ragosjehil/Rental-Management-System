@@ -1,0 +1,2 @@
+The Rental Management System (RentFlow) is a centralized digital platform designed to streamline property management operations. Currently, many landlords rely on paper records or basic spreadsheets, which are prone to being lost, damaged, or mixed up. This manual approach causes significant errors in tracking payments and tenant information.
+The system addresses the need for an organized, single-entry point for tenant records, payments, and rental agreements. It is primarily designed for property managers, landlords, and tenants within a residential or commercial setting.
